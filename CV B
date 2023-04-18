@@ -1,0 +1,23 @@
+{
+  basis
+  "Name" ; "Ananada sivaraman.G",
+  "label"; "Programmer",
+  "Email"; "anandhasivaraman07@gmail.com",
+  "Phone"; "+917708647639",
+  DOB
+  "Month";"March",
+  "Date";"03",
+  "Year";"1995",
+  "Gender";"Male",
+  "Marrital Status";"Married",
+  location
+  "Country";"India",
+  "State";"Tamilnadu",
+  "city";"Thoothukudi",
+  Work
+  "Company";"Bindablan International salalah","Motherland Builders",
+  "Position";"Site supervisor",
+  Education
+  "Qualification";"Diploma in civil engineering",
+  "university";"Jayaraj annabackiam csi nazerth"}
+
